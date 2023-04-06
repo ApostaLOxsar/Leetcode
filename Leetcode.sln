@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2.   
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{E49583CE-2980-4B5B-941B-B5FBE3C740D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Palindrome Number", "9. Palindrome Number\9. Palindrome Number.csproj", "{D3AFCA75-EB9A-411B-BCCF-A73AA02EF3AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E49583CE-2980-4B5B-941B-B5FBE3C740D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E49583CE-2980-4B5B-941B-B5FBE3C740D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E49583CE-2980-4B5B-941B-B5FBE3C740D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AFCA75-EB9A-411B-BCCF-A73AA02EF3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AFCA75-EB9A-411B-BCCF-A73AA02EF3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AFCA75-EB9A-411B-BCCF-A73AA02EF3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AFCA75-EB9A-411B-BCCF-A73AA02EF3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
